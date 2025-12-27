@@ -103,3 +103,14 @@
 
 /datum/bodypart_overlay/mutant/wings/moth/get_base_icon_state()
 	return burnt ? burn_datum.icon_state : sprite_datum.icon_state
+
+/obj/item/organ/external/wings/moth/cyber
+    name = "Cybernetic moth wings"
+    desc = "Moth wings! These one are metal."
+
+    preference = "feature_moth_wings"
+
+    dna_block = DNA_MOTH_WINGS_BLOCK
+
+    bodypart_overlay = /datum/bodypart_overlay/mutant/wings/moth
+    sprite_accessory_override = /datum/sprite_accessory/moth_wings/cyber
