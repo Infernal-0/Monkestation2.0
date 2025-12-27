@@ -106,6 +106,6 @@
 
 /obj/item/organ/external/wings/moth/cyber
 	name = "Cybernetic moth wings"
-	desc = "Moth wings! These one are metal."
+	desc = "Moth wings! These one are thin metal. They don't look very durable."
 	organ_flags = ORGAN_ROBOTIC
 	sprite_accessory_override = /datum/sprite_accessory/moth_wings/cyber
