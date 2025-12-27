@@ -103,6 +103,7 @@
 		"ci-breather",
 		"ci-diaghud",
 		"ci-gloweyes",
+		"ci-moth_wings",
 		"ci-medhud",
 		"ci-meson",
 		"ci-nutriment",
