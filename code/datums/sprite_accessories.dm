@@ -2287,7 +2287,7 @@ MONKESTATION EDIT
 	name = "Moffra"
 	icon_state = "moffra"
 
-/datum/sprite_accessory/wings/cyber
+/datum/sprite_accessory/moth_wings/cyber
 	name = "Cyber"
 	icon_state = "cyber"
 

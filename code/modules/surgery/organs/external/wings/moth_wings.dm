@@ -113,4 +113,4 @@
     dna_block = DNA_MOTH_WINGS_BLOCK
 
     bodypart_overlay = /datum/bodypart_overlay/mutant/wings/moth
-    sprite_accessory_override = /datum/sprite_accessory/wings/cyber
+    sprite_accessory_override = /datum/sprite_accessory/moth_wings/cyber
