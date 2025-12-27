@@ -421,6 +421,8 @@
 	name = "Cybernetic moth wings"
 	desc = "Moth wings. These ones are cybernetic!"
 	id = "ci-moth_wings"
+	research_icon = 'icons/mob/species/moth/moth_wings.dmi'
+	research_icon_state = "m_moth_wings_cyber_BEHIND"
 	build_type = PROTOLATHE | AWAY_LATHE | MECHFAB
 	construction_time = 40
 	materials = list(/datum/material/iron = SMALL_MATERIAL_AMOUNT*6)
